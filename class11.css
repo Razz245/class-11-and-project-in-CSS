@@ -1,0 +1,103 @@
+ *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.body{
+    background-color: rgb(219, 238, 242);
+}
+ .wraper{
+    width: 550px;
+    height: 700px;
+    background-color: oldlace;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+    position: relative;
+}
+ .wraper-images {
+   padding: 20px 24px;;
+   object-fit: cover;
+   border-radius: 8px;
+ }
+ .wraper-images img{
+    width: 500px;
+ }
+
+ .wraper-contant{
+    padding: 15px 24px;
+    color: rgb(71, 31, 3);
+    border-radius: 5px;
+    
+
+ }
+ .wraper-contant h1{
+    margin-bottom: 12px;
+    background-color: rgb(68, 36, 2);
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+}
+ .wraper-contant h2{
+    margin-bottom: 15px;
+    background-color:rgb(145, 4, 142);
+    color: rgb(251, 255, 253);
+    text-align: center;
+    font-size: 30px;
+    display:flexbox;
+    margin: 10px 200px;
+    border-radius: 5px;
+
+ }
+ .wraper-contant p{
+    font-size: 18px;
+    text-align: justify;
+    margin: 10px;
+
+ }
+ .wraper-contant h4{
+    font-size: 25px;
+    background-color:rgb(68, 36, 2) ;
+    color: white;
+    display:ruby;
+    margin: 10px;
+    border-radius: 2px;
+
+ }
+ .contant-para2{
+    font-size: 20px;
+    text-align: justify;
+    margin: 10px;
+    color: white;
+    background-color: rgb(2, 85, 85);
+    justify-content: center;
+    border-radius: 3px;
+    padding: 10px;
+
+ }
+ .tranding{
+    width: 550px;
+    height: 550px;
+    background-color: rgb(2, 72, 2);
+ }
+ .fonts-tranding h2{
+    margin-bottom: 12px;
+    background-color: rgb(68, 36, 2);
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+ }
+ .fonts-tranding h3{
+    margin-bottom: 12px;
+    background-color: rgb(46, 22, 1);
+    color: aliceblue;
+    border-radius: 2px;
+    text-align:center;
+
+ }
+ .fonts-tranding p{
+    font-size: 18px;
+    text-align: justify;
+    margin: 10px;
+    color:white;
+ }
+
+ 
